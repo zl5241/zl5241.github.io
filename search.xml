@@ -33,31 +33,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
-      
-        <content type="html"><![CDATA[{"name":"YB_zhang`Blog","short_name":"YB_zhang","theme_color":"#3b70fc","background_color":"#3b70fc","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>bangumis</title>
       <link href="/bangumis/index.html"/>
       <url>/bangumis/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>image</title>
-      <link href="/img/index.html"/>
-      <url>/img/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -77,11 +55,33 @@
     
     
     <entry>
+      <title></title>
+      <link href="/css/loading-bar.css"/>
+      <url>/css/loading-bar.css</url>
+      
+        <content type="html"><![CDATA[.pace {-webkit-pointer-events: none;pointer-events: none;-webkit-user-select: none;-moz-user-select: none;user-select: none;z-index: 2000;position: fixed;margin: auto;top: 10px;left: 0;right: 0;height: 8px;border-radius: 8px;width: 4rem;background: #eaecf2;border: 1px #e3e8f7;overflow: hidden;  }    .pace-inactive .pace-progress {opacity: 0;transition: 0.3s ease-in;  }    .pace .pace-progress {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);max-width: 200px;position: absolute;z-index: 2000;display: block;top: 0;right: 100%;height: 100%;width: 100%;background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);animation: gradient 1.5s ease infinite;background-size: 200%;  }    .pace.pace-inactive {opacity: 0;transition: 0.3s;top: -8px;  }  @keyframes gradient {0% {  background-position: 0% 50%;}50% {  background-position: 100% 50%;}100% {  background-position: 0% 50%;}  }]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
+      
+        <content type="html"><![CDATA[{"name":"YB_zhang`Blog","short_name":"YB_zhang","theme_color":"#3b70fc","background_color":"#3b70fc","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
@@ -99,20 +99,20 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/loading-bar.css"/>
-      <url>/css/loading-bar.css</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[.pace {-webkit-pointer-events: none;pointer-events: none;-webkit-user-select: none;-moz-user-select: none;user-select: none;z-index: 2000;position: fixed;margin: auto;top: 10px;left: 0;right: 0;height: 8px;border-radius: 8px;width: 4rem;background: #eaecf2;border: 1px #e3e8f7;overflow: hidden;  }    .pace-inactive .pace-progress {opacity: 0;transition: 0.3s ease-in;  }    .pace .pace-progress {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;-webkit-transform: translate3d(0, 0, 0);-moz-transform: translate3d(0, 0, 0);-ms-transform: translate3d(0, 0, 0);-o-transform: translate3d(0, 0, 0);transform: translate3d(0, 0, 0);max-width: 200px;position: absolute;z-index: 2000;display: block;top: 0;right: 100%;height: 100%;width: 100%;background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);animation: gradient 1.5s ease infinite;background-size: 200%;  }    .pace.pace-inactive {opacity: 0;transition: 0.3s;top: -8px;  }  @keyframes gradient {0% {  background-position: 0% 50%;}50% {  background-position: 100% 50%;}100% {  background-position: 0% 50%;}  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>image</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
